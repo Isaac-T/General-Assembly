@@ -1,7 +1,7 @@
 # General-Assembly
-GA Data Science Immersive Projects (March to June 2019)
+This repository contains my GA Data Science Immersive Projects (March to June 2019)
 
-Full-time data science immersive course spanning 12 weeks(480hours) from March to June 2019.
+GA Data Science Immersive Program is a Full-time data science immersive course spanning 12 weeks(480hours) from March to June 2019.
 
 Topics include: 
 - Exploratory data analysis, visualization and statistics in Python (Numpy, pandas, matplotlib, seaborn)
